@@ -13,3 +13,7 @@ Em Kohonen, podemos utilizar vários tipos de topologia para delimitar a nossa v
 <p align="center">
  <img align="center" src="https://github.com/MuriloChaves/Kohonen_Fausett/blob/master/vizinhanca/imagens/vizinhos_unidimensional.png">
 </p>
+
+### Vizinhança Bidimensional
+
+[vizinhos_bidimensional.py](./codigos/vizinhos_bidimensional.py)
