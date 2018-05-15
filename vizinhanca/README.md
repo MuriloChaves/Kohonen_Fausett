@@ -9,4 +9,6 @@ Sei que diversas pessoas podem ter o entendimento e compreendimento diferente, p
 
 ### Vizinhança Unidimensional
 
+<p align="center">
  <img align="center" src="https://github.com/MuriloChaves/Kohonen_Fausett/blob/master/vizinhanca/imagens/vizinhanca_unidimensional.gif">
+</p>
