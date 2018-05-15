@@ -4,6 +4,8 @@ Em Kohonen, podemos utilizar vários tipos de topologia para delimitar a nossa v
 
 ### Vizinhança Unidimensional
 
+[vizinhos_unidimensional.py](./codigos/vizinhos_unidimensional.py)
+
 À fins didáticos, vamos dar uma olhada na topologia Unidimensional (assim como nome já fala, de somente uma dimensão) como segue na imagem abaixo:
 
 <p align="center">
