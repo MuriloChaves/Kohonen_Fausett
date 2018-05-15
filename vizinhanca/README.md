@@ -17,3 +17,7 @@ Em Kohonen, podemos utilizar vários tipos de topologia para delimitar a nossa v
 ### Vizinhança Bidimensional
 
 [vizinhos_bidimensional.py](./codigos/vizinhos_bidimensional.py)
+
+<p align="center">
+ <img align="center" src="https://github.com/MuriloChaves/Kohonen_Fausett/blob/master/vizinhanca/imagens/mapa_bidimensional.png">
+</p>
